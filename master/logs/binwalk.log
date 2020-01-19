@@ -1,0 +1,12 @@
+
+Scan Time:     2020-01-19 10:57:49
+Target File:   /home/user/Downloads/SFP-GPON/firmware-mod-kit/R01B010Df1c24301.upf
+MD5 Checksum:  0ebb10153ff3a084feb296e920ced2fb
+Signatures:    344
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Copyright string: "Copyright 2000-2010 T&W. All rights reserved."
+1024          0x400           uImage header, header size: 64 bytes, header CRC: 0x4839EC66, created: 2017-07-12 04:01:47, image size: 1184511 bytes, Data Address: 0x80002000, Entry Point: 0x80002000, data CRC: 0xD4AF7C71, OS: Linux, CPU: MIPS, image type: OS Kernel Image, compression type: lzma, image name: "OpenWrtLinux-3.10.12-svn"
+1088          0x440           LZMA compressed data, properties: 0x5D, dictionary size: 8388608 bytes, uncompressed size: 3481980 bytes
+1311232       0x140200        Squashfs filesystem, little endian, version 4.0, compression:xz, size: 2353629 bytes, 727 inodes, blocksize: 262144 bytes, created: 2018-08-23 02:30:05
+

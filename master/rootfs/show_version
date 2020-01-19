@@ -1,0 +1,11 @@
+Project Name:              TW2362H-CDEL
+Client Product Name:       GTO100I_SFP
+Internal Product Name:     GTO100I_SFP
+Hardware Version:          V1.0
+Boot Version:              V1.0.0
+Client Software Version:   V1.0.0
+Internal Software Version: V1.0.0
+Build User:                lidandan
+Build Time:                2018-08-23 10:30:03
+Build Method:              export ONU=gto100i_sfp && make rootfs && make install
+GIT Info:                  TW2362H-CDEL_lantiq98035/customize/TW2362H-CDEL_lantiq98035_general_20150131:f1c24301
